@@ -3,7 +3,9 @@
 <img width="506" alt="Screen Shot 2024-09-23 at 1 35 21 AM" src="https://github.com/user-attachments/assets/d2556f02-8b2b-4db8-9431-83f7b5d0a87f">
 
 Towel Synth is a simple yet powerful synthesizer plugin developed using the JUCE framework. It features an interactive graphical user interface with ADSR sliders and a resizable MIDI keyboard, allowing users to create and manipulate sounds with ease.
-
+- - - 
+Works with JUCE 7.0.12 and uses Mac 10.13 (or higher) in Xcode Releases section.
+- - - 
 ## Features
 
 - **ADSR Envelope Control**: Adjustable Attack, Decay, Sustain, and Release sliders to shape the amplitude envelope of the sound.
