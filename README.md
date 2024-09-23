@@ -27,7 +27,7 @@ Towel Synth is a simple yet powerful synthesizer plugin developed using the JUCE
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/towel-synth.git
+   git clone https://github.com/towelwet/towel-synth.git
    ```
 
 2. **Open the Projucer Project**:
